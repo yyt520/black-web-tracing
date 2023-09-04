@@ -1,5 +1,5 @@
 # Start
-WebTracing是一个基于 JavaScript 的埋点SDK
+BlackWebTracing是一个基于 JavaScript 的埋点SDK
 
 它努力为你的前端项目提供【 行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段
 

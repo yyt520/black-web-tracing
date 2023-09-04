@@ -5,7 +5,7 @@
 也可以直接运行配套的 `示例项目`
 
 ## html & js
-[完整示例项目 https://github.com/M-cheng-web/web-tracing-examples-js](https://github.com/M-cheng-web/web-tracing-examples-js)
+[完整示例项目 https://github.com/yyt520/black-web-tracing-examples-js](https://github.com/yyt520/black-web-tracing-examples-js)
 
 index.html
 ``` html
@@ -211,7 +211,7 @@ function start() {
 ```
 
 ## vue2
-[完整示例项目 https://github.com/M-cheng-web/web-tracing-examples-vue2](https://github.com/M-cheng-web/web-tracing-examples-vue2)
+[完整示例项目 https://github.com/yyt520/black-web-tracing-examples-vue2](https://github.com/yyt520/black-web-tracing-examples-vue2)
 
 main.js
 ``` js
@@ -429,7 +429,7 @@ export default {
 ```
 
 ## vue3
-[完整示例项目 https://github.com/M-cheng-web/web-tracing-examples-vue3](https://github.com/M-cheng-web/web-tracing-examples-vue3)
+[完整示例项目 https://github.com/yyt520/black-web-tracing-examples-vue3](https://github.com/yyt520/black-web-tracing-examples-vue3)
 
 main.ts
 ``` ts

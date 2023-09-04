@@ -10,11 +10,11 @@
   + vue2示例：web-tracing > examples > vue2
   + vue3示例：web-tracing > examples > vue3
 
-[js示例 https://github.com/M-cheng-web/web-tracing-examples-js](https://github.com/M-cheng-web/web-tracing-examples-js)
+[js示例 https://github.com/yyt520/black-web-tracing-examples-js](https://github.com/yyt520/black-web-tracing-examples-js)
 
-[vue2示例 https://github.com/M-cheng-web/web-tracing-examples-vue2](https://github.com/M-cheng-web/web-tracing-examples-vue2)
+[vue2示例 https://github.com/yyt520/black-web-tracing-examples-vue2](https://github.com/yyt520/black-web-tracing-examples-vue2)
 
-[vue3示例 https://github.com/M-cheng-web/web-tracing-examples-vue3](https://github.com/M-cheng-web/web-tracing-examples-vue3)
+[vue3示例 https://github.com/yyt520/black-web-tracing-examples-vue3](https://github.com/yyt520/black-web-tracing-examples-vue3)
 
 > 上面这几个示例项目，是通过脚本直接覆盖迁移过来的，目的是为了拟真测试，本地联调还是在 web-tracing 项目中完成的
 

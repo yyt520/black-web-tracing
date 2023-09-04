@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: WebTracing
+title: BlackBlackWebTracing
 titleTemplate: 埋点
 
 hero:
-  name: WebTracing
+  name: BlackBlackWebTracing
   text: 为前端项目提供完善的监控手段
   image:
     src: https://cdn.staticaly.com/gh/M-cheng-web/image-provider@main/web-tracing/icon_5e9950ae4507f.33lqpfzrwzc0.svg
@@ -22,7 +22,7 @@ hero:
       link: /guide/use/demo
     - theme: alt
       text: View on GitHub
-      link: https://github.com/M-cheng-web/web-tracing
+      link: https://github.com/yyt520/black-web-tracing
 
 features:
   - title: 功能丰富

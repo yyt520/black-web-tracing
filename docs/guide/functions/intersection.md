@@ -39,9 +39,9 @@
 sdk初始化时不提供此功能，只能在页面针对某个元素进行监听
 
 ::: tip
-[vue2完整示例代码](https://github.com/M-cheng-web/web-tracing/blob/main/examples/vue2/src/views/intersection/index.vue)
+[vue2完整示例代码](https://github.com/yyt520/black-web-tracing/blob/main/examples/vue2/src/views/intersection/index.vue)
 
-[vue3完整示例代码](https://github.com/M-cheng-web/web-tracing/blob/main/examples/vue3/src/views/intersection/index.vue)
+[vue3完整示例代码](https://github.com/yyt520/black-web-tracing/blob/main/examples/vue3/src/views/intersection/index.vue)
 :::
 
 

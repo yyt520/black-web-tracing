@@ -68,12 +68,12 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/M-cheng-web/web-tracing/blob/main/docs/:path',
+      pattern: 'https://github.com/yyt520/black-web-tracing/blob/main/docs/:path',
       text: 'Suggest changes to this page'
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/M-cheng-web/web-tracing' }
+      { icon: 'github', link: 'https://github.com/yyt520/black-web-tracing' }
     ],
 
     // 这里后续要去申请
